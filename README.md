@@ -1,3 +1,7 @@
+
+# Practice project
+
+The following project shows basic EDA Python queries. This is the very first project I wrote at Nashville Software School.
 ## **Data Question 1: An Exploration of UN data**
 In this project, you'll be doing some exploratory analysis on two country-level metrics, gross domestic product (GDP) per capita and overall life expectancy. After completing the guided practice section, you will have a chance to find some additional data and do some more exploring of your own.
 
